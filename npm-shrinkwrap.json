@@ -3759,7 +3759,7 @@
     },
     "lodash": {
       "version": "1.0.2",
-      "from": "lodash@>=1.0.1 <1.1.0",
+      "from": "https://registry.npmjs.org/lodash/-/lodash-1.0.2.tgz",
       "resolved": "https://registry.npmjs.org/lodash/-/lodash-1.0.2.tgz"
     },
     "lodash._basecopy": {
